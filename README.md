@@ -83,14 +83,14 @@ clean ApiTests
 <img title="Allure Overview" src="media/report_media/allure_tests_result_example.png">
 </p>
 
-### <img width="4%" style="vertical-align:middle" title="Allure TestOps" src="media/icons/Allure_TestOps.svg"> Отчет и кейсы в [Allure-TestOps](https://allure.autotests.cloud/launch/47045)
+## <img width="4%" style="vertical-align:middle" title="Allure TestOps" src="media/icons/Allure_TestOps.svg"> Отчет и кейсы в [Allure-TestOps](https://allure.autotests.cloud/launch/47045)
 В результате запуска job'ы в Jenkins в дипломном проекте в Allure TestOps добавлется отчет и кейсы.
 <p align="center">
 <img title="Allure TestOps" src="media/report_media/allure_testops_results.png">
 </p>
 
 
-### <img width="4%" style="vertical-align:middle" title="Telegram" src="media/icons/Telegram.svg"> Уведомления в Telegram с использованием бота
+## <img width="4%" style="vertical-align:middle" title="Telegram" src="media/icons/Telegram.svg"> Уведомления в Telegram с использованием бота
 
 После завершения сборки специальный бот, созданный в <code>Telegram</code>, автоматически обрабатывает и отправляет
 сообщение с отчетом о прогоне тестов.
