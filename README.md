@@ -18,16 +18,16 @@
 ## 🔽 Используемый стек
 
 <p align="center">
-<img width="7%" title="IntelliJ IDEA" src="media/icons/intellij-idea-svgrepo-com.svg" alt="IntelliJ IDEA">
-<img width="7%" title="Java" src="media/icons/java-svgrepo-com.svg" alt="Java">
-<img width="7%" title="Allure Report" src="media/icons/Allure.svg" alt="Allure Report">
-<img width="7%" title="Gradle" src="media/icons/gradle-svgrepo-com.svg" alt="Gradle">
-<img width="7%" title="JUnit5" src="media/icons/Junit5.svg" alt="JUnit5">
-<img width="7%" title="Allure TestOps" src="media/icons/Allure_TestOps.svg" alt="Allure TestOps">
-<img width="7%" title="GitHub" src="media/icons/github-badge-svgrepo-com.svg" alt="GitHub">
-<img width="7%" title="Jenkins" src="media/icons/Jenkins.svg" alt="Jenkins">
-<img width="7%" title="Telegram" src="media/icons/Telegram.svg" alt="Telegram">
-<img width="7%" title="RestAssured" src="media/icons/RestAssured.svg" alt="RestAssured">
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img width="7%" title="IntelliJ IDEA" src="media/icons/intellij-idea-svgrepo-com.svg" alt="IntelliJ IDEA"></a>
+  <a href="https://www.java.com/" target="_blank"><img width="7%" title="Java" src="media/icons/java-svgrepo-com.svg" alt="Java"></a>
+  <a href="https://docs.qameta.io/allure/" target="_blank"><img width="7%" title="Allure Report" src="media/icons/Allure.svg" alt="Allure Report"></a>
+  <a href="https://gradle.org/" target="_blank"><img width="7%" title="Gradle" src="media/icons/gradle-svgrepo-com.svg" alt="Gradle"></a>
+  <a href="https://junit.org/junit5/" target="_blank"><img width="7%" title="JUnit5" src="media/icons/Junit5.svg" alt="JUnit5"></a>
+  <a href="https://docs.qameta.io/allure-testops/" target="_blank"><img width="7%" title="Allure TestOps" src="media/icons/Allure_TestOps.svg" alt="Allure TestOps"></a>
+  <a href="https://github.com/" target="_blank"><img width="7%" title="GitHub" src="media/icons/github-badge-svgrepo-com.svg" alt="GitHub"></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img width="7%" title="Jenkins" src="media/icons/Jenkins.svg" alt="Jenkins"></a>
+  <a href="https://telegram.org/" target="_blank"><img width="7%" title="Telegram" src="media/icons/Telegram.svg" alt="Telegram"></a>
+  <a href="https://rest-assured.io/" target="_blank"><img width="7%" title="RestAssured" src="media/icons/RestAssured.svg" alt="RestAssured"></a>
 </p>
 
 Тесты в данном проекте написаны на языке <code>Java</code>, сборщик - <code>Gradle</code>. <code>JUnit 5</code> задействован в
