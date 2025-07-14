@@ -48,7 +48,7 @@
 ### Запуск тестов из терминала
 
 ```
-gradle clean ApiTests
+gradle clean test
 ```
 
 При выполнении данной команды в терминале IDE тесты запустятся локально.
@@ -56,7 +56,7 @@ gradle clean ApiTests
 ### Запуск тестов из Jenkins
 
 ```
-clean ApiTests
+clean test
 ```
 
 ## <img width="4%" style="vertical-align:middle" title="Jenkins" src="media/icons/Jenkins.svg"> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/C34-khabarov_ilya-Diplom-API/)
