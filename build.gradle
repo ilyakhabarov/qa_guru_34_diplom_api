@@ -25,12 +25,6 @@ dependencies
                     "io.rest-assured:json-schema-validator:$restAssuredVersion",
                     "org.junit.jupiter:junit-jupiter:$junitJupiterVersion",
                     "org.slf4j:slf4j-simple:2.0.17",
-                    "io.qameta.allure:allure-selenide:$allureVersion",
-            )
-            testRuntimeOnly(
-                    "org.junit.jupiter:junit-jupiter-engine:$junitJupiterVersion",
-                    "org.junit.platform:junit-platform-launcher:$junitPlatformVersion",
-                    "org.junit.platform:junit-platform-engine:$junitPlatformVersion"
             )
             implementation("io.qameta.allure:allure-rest-assured:$allureVersion")
         }
